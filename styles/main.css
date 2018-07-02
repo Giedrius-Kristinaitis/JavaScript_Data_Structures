@@ -1,0 +1,49 @@
+/* GENERAL STYLES */
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: gray;
+}
+
+/* UNIQUE ELEMENT STYLES */
+#console {
+    margin: 8px;
+    padding: 8px;
+    border: 1px solid black;
+    width: 100%;
+    text-align: left;
+    background-color: white;
+    height: 580px;
+    min-height: 400px;
+    max-height: 580px;
+    overflow: scroll;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
+    letter-spacing: 0.1em;
+}
+
+/* LAYOUT STYLES */
+.container {
+    width: 80%;
+    margin: 24px auto;
+}
+
+/* COLOR STYLES */
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: rgb(64, 64, 255);
+}
+
+.black {
+    color: black;
+}
