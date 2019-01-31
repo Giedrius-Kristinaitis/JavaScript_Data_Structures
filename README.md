@@ -1,5 +1,5 @@
 # JavaScript_Data_Structures
-Custom data structures with basic operations:
+Simple data structures with basic operations:
 
 1) Adding data
 
@@ -8,5 +8,3 @@ Custom data structures with basic operations:
 3) Sorting data
 
 4) Iterating through the structure
-
-Created and tested in JavaScript.
